@@ -9,7 +9,7 @@
 - Javascript
 - html e css
 - C e C++
-- React
+- ReactJS
 
 :tractor: Faço parte da equipe Baja UFMG, formada por alunos de engenharia que tem por objetivo projetar e construir um veículo off-road para participação em competições organizadas pela SAE. Na equipe, estou atualmente envolvido com o projeto de uma interface de telemetria, desenvolvida com React.
 <!--
