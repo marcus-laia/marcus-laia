@@ -4,7 +4,7 @@
 
 :books: Sou aluno de Engenharia de Controle e Automação na Universidade Federal de Minas Gerais (UFMG) e na Faculdade de Tecnologia Termomecanica (FTT).
 
-:computer: Comecei a estudar programação em 2020. Já estudei:
+:computer: No momento meu foco são os estudos para me tornar desenvolvedor front-end. Comecei a estudar programação em 2020 e já estudei:
 - Python
 - Javascript
 - html e css
