@@ -32,6 +32,8 @@
   <a href="https://www.linkedin.com/in/marcus-laia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+⚠️⚠️⚠️ Estou trabalhando para formatar meus projetos de visão computacional e aprendizado de máquina e publicá-los aqui assim que possível ⚠️⚠️⚠️
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
