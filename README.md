@@ -1,14 +1,16 @@
 ### Opa Galera 👋
 
-👦 Meu nome é Marcus, tenho 19 anos, e estou sempre buscando oportunidades de crescimento pessoal, acadêmico e profissional.
+👦 Meu nome é Marcus, tenho 20 anos, e estou sempre buscando oportunidades de crescimento pessoal, acadêmico e profissional.
 
 📚 Sou aluno de Engenharia de Controle e Automação na Universidade Federal de Minas Gerais (UFMG).
 
-👨‍💻 Comecei a estudar programação em 2020 e possuo conhecimentos em Python, C, C++, Javascript, React, HTML e CSS.
+👨‍💻 Comecei a estudar programação em 2020 e desenvolvo em Python, C e C++. Também já usei Javascript, React, HTML e CSS.
 
-🤖 Atualmente meus estudos extra universidade são focados em Machine Learning e Computer Vision.
+⚡ Atualmente meu foco é construir toda a base de conhecimentos teóricos e práticos para me desenvolver enquanto profissional da área de dados
 
-🚜 Faço parte da equipe Baja UFMG, formada por alunos de engenharia que tem por objetivo projetar e construir um veículo off-road para participação em competições organizadas pela SAE.
+🤖 Me interesso muito por tópicos de Machine Learning e Computer Vision, desde a matemática e estatística até o código.
+
+<!-- 🚜 Faço parte da equipe Baja UFMG, formada por alunos de engenharia que tem por objetivo projetar e construir um veículo off-road para participação em competições organizadas pela SAE. -->
 
 <div>
   <a href="https://github.com/marcus-laia">
@@ -32,9 +34,10 @@
   <a href="https://www.linkedin.com/in/marcus-laia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<!--
 ⚠️⚠️⚠️ Estou trabalhando para formatar meus projetos de visão computacional e aprendizado de máquina e publicá-los aqui assim que possível ⚠️⚠️⚠️
 
-<!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
