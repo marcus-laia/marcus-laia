@@ -34,6 +34,7 @@
   <a href="https://www.linkedin.com/in/marcus-laia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+[![Top Langs](https://github-readme-stats-marcus-laia.vercel.app/api/top-langs/?username=marcus-laia&layout=compact&langs_count=7&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ⚠️⚠️⚠️ Estou trabalhando para formatar meus projetos de visão computacional e aprendizado de máquina e publicá-los aqui assim que possível ⚠️⚠️⚠️
 
